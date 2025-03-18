@@ -1,6 +1,22 @@
-<h2 align="left">Hi 👋! My name is Gabriel and I'm a final year Computer Science student from Bucharest - Romania</h2>
+<h1 align="center">Hi 👋, I'm Gabi</h1>
+<h3 align="center">A passionate final year computer science student from Romania</h3>
 
-###
+- 🔭 I’m currently working on [Bachelor Degree Thesis](https://github.com/ZiGabiZi/Licenta2)
+
+- 🌱 I’m currently learning - **Web App Penetration Testing using Burp Suite and ZAP**
+
+- 👯 I’m looking to collaborate on - **Cyber Security Projects**
+
+- 💬 Ask me about - **Fishing, Table Tennis, Programming**
+
+- 📫 How to reach me  - **ZiGabiZi@yahoo.com**
+
+- ⚡ Fun fact -  **I like nonsense; it wakes up the brain cells.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/zigabizi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zigabizi" height="30" width="40" /></a>
+</p>
 
 <br clear="both">
 
@@ -78,8 +94,5 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/ZiGabiZi/ZiGabiZi/output/snake.svg" alt="Snake animation" />
 
-###
