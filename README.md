@@ -11,8 +11,11 @@
 
 - 📫 How to reach me  - **ZiGabiZi@yahoo.com**
 
-- ⚡ Fun fact -  **I like nonsense; it wakes up the brain cells.**
+- ⚡ Fun fact -  **I like nonsense; it wakes up the brain cells.** 
 
+<div style="float: right; margin-top: -50px;">
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnk4aWl3a2xyZHoxZXA0N24zYjk3eXI1bXpwN3A4ODAxbGFxeXdqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kHU8W94VS329y/giphy.gif"  />
+</div>
 <h3 align="left">Connect with me:</h3>
 <div style="display: flex; align-items: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/gabriel-lucian-%C8%9Bilic%C4%83-1797172bb" target="blank" style="text-decoration: none; display: flex; align-items: center;">
@@ -88,8 +91,6 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ZiGabiZi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZiGabiZi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnk4aWl3a2xyZHoxZXA0N24zYjk3eXI1bXpwN3A4ODAxbGFxeXdqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kHU8W94VS329y/giphy.gif"  />
 
 </div>
 
