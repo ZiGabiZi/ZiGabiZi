@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gabi</h1>
-<h3 align="center">A passionate final year computer science student from Romania</h3>
+<h1 align="center">Hi 👋, I'm Gabriel</h1>
+<h3 align="center">A passionate graduated computer science from Romania</h3>
 
 - 🔭 I’m currently working on [Bachelor Degree Thesis](https://github.com/ZiGabiZi/Licenta2)
 
@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on - **Cyber Security Projects**
 
-- 💬 Ask me about - **Fishing, Table Tennis, Programming**
+- 💬 Ask me about - **Programming, Fishing, Table Tennis**
 
-- 📫 How to reach me  - **ZiGabiZi@yahoo.com**
+- 📫 How to reach me  - **TilicaGabrielP@gmai.com**
 
 - ⚡ Fun fact -  **I like nonsense; it wakes up the brain cells.** 
 
