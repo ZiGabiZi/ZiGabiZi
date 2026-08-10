@@ -9,7 +9,7 @@
 
 - 💬 Ask me about - **Programming, Fishing, Table Tennis**
 
-- 📫 How to reach me  - **TilicaGabrielP@gmai.com**
+- 📫 How to reach me  - **TilicaGabrielP@gmail.com**
 
 - ⚡ Fun fact -  **I like nonsense; it wakes up the brain cells.** 
 
